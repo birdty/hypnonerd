@@ -30,7 +30,7 @@
     
     tabBarController.viewControllers = @[hvc, rvc];
     
-    self.window.rootViewController = tabBarController;
+    self.window.rootViewController = tabBarController; 
     
     self.window.backgroundColor = [UIColor whiteColor];
     
